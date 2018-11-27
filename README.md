@@ -1,5 +1,16 @@
 # DfaVisualizer
 
+![DFA Visualizer Image](/dfa_visualizer_v0.1.png)
+Format: ![Alt Text](url)
+
+Visualize a DFA given.
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
 
 ## Development server
